@@ -43,7 +43,7 @@ Sistema CRUD completo desarrollado en Python con POO avanzada — herencia, poli
 
 **Tech:** `Python` `Tkinter` `POO` `JSON` `CSV`
 
-🔗 [Ver repositorio](https://github.com/JuapaTorres/gestor-inteligente-clientes)
+🔗 [Ver repositorio](https://github.com/JuapaTorres/SGI_clientes)
 
 ---
 
